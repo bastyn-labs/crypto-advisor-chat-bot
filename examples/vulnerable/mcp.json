@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "files": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/"],
+      "env": { "API_TOKEN": "Zx9fQ2mLp4Rt8Vw3Kd7Hn5Bs" }
+    }
+  }
+}
