@@ -6,10 +6,11 @@ python-multipart==0.0.20
 python-dotenv==1.2.1
 
 # LangChain / LangGraph
-langgraph==0.2.75
-langchain==0.3.30
-langchain-openai==0.2.14
-langchain-core==0.3.86
+langgraph==1.0.10
+langgraph-prebuilt==1.0.8
+langchain==1.2.10
+langchain-openai==1.4.3
+langchain-core==1.6.10
 
 # HTTP client
 httpx==0.28.1
